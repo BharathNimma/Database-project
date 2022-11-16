@@ -1,0 +1,13 @@
+CREATE TABLE logistics(
+Delivery_ID INT(10) NOT NULL PRIMARY KEY,
+Repository_ID INT(10) NOT NULL,
+Repository_Loc VARCHAR(100) NOT NULL,
+O_ID INT(10) NOT NULL,
+S_ID INT(10) NOT NULL,
+S_Loc VARCHAR(100) NOT NULL);
+INSERT INTO logistics
+(Delivery_ID, Repository_ID, Repository_Loc, O_ID, S_ID, S_Loc)
+VALUES
+(120112, 435678, " Irvine, CA 92618, USA", 56782, 534101, " 20808E Arrow HWY,covina,CA 91724,USA"),
+(1200113, 435678, "Irvine, CA 92618, USA ", 56783, 534102, " 17440 ColimaRd,Rowland Heights,CA 91748,USA"),
+(1200117, 435678, " Irvine, CA 92618, USA ", 56781, 534103, " 400 parkpalza Dr, Secaucus,NJ 07094,USA");
