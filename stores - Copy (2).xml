@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores>
+  <record>
+    <S_ID>534101</S_ID>
+    <S_Name>BigLots</S_Name>
+    <Contact_Num>626-966-4045</Contact_Num>
+    <S_Loc>CA</S_Loc>
+  </record>
+  <record>
+    <S_ID>534102</S_ID>
+    <S_Name>DollarTree</S_Name>
+    <Contact_Num>626-322-1107</Contact_Num>
+    <S_Loc>CJ</S_Loc>
+  </record>
+  <record>
+    <S_ID>534103</S_ID>
+    <S_Name>Walmart</S_Name>
+    <Contact_Num>201-325-9280</Contact_Num>
+    <S_Loc>NJ</S_Loc>
+  </record>
+</stores>

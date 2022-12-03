@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Logistics>
+  <record>
+    <D_ID>12111</D_ID>
+    <R_Loc>Irvine</R_Loc>
+    <O_ID>56782</O_ID>
+    <S_ID>534101</S_ID>
+    <S_Loc>CA</S_Loc>
+  </record>
+  <record>
+    <D_ID>12112</D_ID>
+    <R_Loc>Irvine</R_Loc>
+    <O_ID>56783</O_ID>
+    <S_ID>534102</S_ID>
+    <S_Loc>CJ</S_Loc>
+  </record>
+  <record>
+    <D_ID>12113</D_ID>
+    <R_Loc>Irvine</R_Loc>
+    <O_ID>56781</O_ID>
+    <S_ID>534103</S_ID>
+    <S_Loc>NJ</S_Loc>
+  </record>
+</Logistics>

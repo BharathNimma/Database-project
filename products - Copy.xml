@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <record>
+    <P_ID>230011</P_ID>
+    <P_Name>Shark</P_Name>
+    <Price>15</Price>
+    <P_Quantity>500</P_Quantity>
+  </record>
+  <record>
+    <P_ID>230012</P_ID>
+    <P_Name>Elephant</P_Name>
+    <Price>35</Price>
+    <P_Quantity>700</P_Quantity>
+  </record>
+  <record>
+    <P_ID>230013</P_ID>
+    <P_Name>Teddy</P_Name>
+    <Price>40</Price>
+    <P_Quantity>500</P_Quantity>
+  </record>
+</products>

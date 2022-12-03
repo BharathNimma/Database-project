@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <record>
+    <O_ID>56781</O_ID>
+    <P_ID>230012</P_ID>
+    <Quantity>40</Quantity>
+    <Price>35</Price>
+    <O_Total>1400</O_Total>
+    <S_ID>534103</S_ID>
+  </record>
+  <record>
+    <O_ID>56782</O_ID>
+    <P_ID>230013</P_ID>
+    <Quantity>50</Quantity>
+    <Price>40</Price>
+    <O_Total>2000</O_Total>
+    <S_ID>534101</S_ID>
+  </record>
+  <record>
+    <O_ID>56783</O_ID>
+    <P_ID>230011</P_ID>
+    <Quantity>50</Quantity>
+    <Price>15</Price>
+    <O_Total>750</O_Total>
+    <S_ID>534102</S_ID>
+  </record>
+</orders>

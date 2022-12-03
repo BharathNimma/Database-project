@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <record>
+    <Emp_ID>111</Emp_ID>
+    <Emp_First_Name>CHRIS</Emp_First_Name>
+    <Emp_Last_Name>NILOFER</Emp_Last_Name>
+    <Contact_Num>236-489-6905</Contact_Num>
+    <Role>DELIVERYINCHARGE</Role>
+  </record>
+  <record>
+    <Emp_ID>112</Emp_ID>
+    <Emp_First_Name>JENNI</Emp_First_Name>
+    <Emp_Last_Name>RICHARD</Emp_Last_Name>
+    <Contact_Num>321-789-2341</Contact_Num>
+    <Role>WORKER</Role>
+  </record>
+  <record>
+    <Emp_ID>113</Emp_ID>
+    <Emp_First_Name>JAMES</Emp_First_Name>
+    <Emp_Last_Name>CAMERON</Emp_Last_Name>
+    <Contact_Num>789-04-2321</Contact_Num>
+    <Role>GENERALMANAGER</Role>
+  </record>
+</Employee>
